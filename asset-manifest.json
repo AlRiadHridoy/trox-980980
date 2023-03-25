@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.975ba03a.css",
+    "main.js": "/static/js/main.958be9de.js",
+    "static/js/787.05768453.chunk.js": "/static/js/787.05768453.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.20181f1c1bd73440035f8628bf45c34f.svg",
+    "static/media/sadh.png": "/static/media/sadh.450c712e1d10f1749e32.png",
+    "static/media/riyadh.png": "/static/media/riyadh.35676ca9c3488560a64d.png",
+    "static/media/akash.png": "/static/media/akash.de0ca17ce38fddb1edf3.png",
+    "static/media/ferdous.png": "/static/media/ferdous.140aca476991e13e7030.png",
+    "static/media/sumit.png": "/static/media/sumit.c0c57734e298bbeb19d4.png",
+    "static/media/almas.png": "/static/media/almas.97d545a2a25112664231.png",
+    "static/media/salahuddin.png": "/static/media/salahuddin.f6f9ee760c1573a12119.png",
+    "index.html": "/index.html",
+    "static/media/delete.svg": "/static/media/delete.810192016a829703f20d.svg",
+    "main.975ba03a.css.map": "/static/css/main.975ba03a.css.map",
+    "main.958be9de.js.map": "/static/js/main.958be9de.js.map",
+    "787.05768453.chunk.js.map": "/static/js/787.05768453.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975ba03a.css",
+    "static/js/main.958be9de.js"
+  ]
+}
